@@ -1,0 +1,28 @@
+name: ClayGordonPhotoBlog
+favicon: null
+layout_spectrum: 0.9108756841160357
+typography_spectrum: 0.11260388512164354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.33131708623841405
+  lightness: 0.6239640393760055
+  saturation: 0.13325978489592671
+  rhythmicContrast: 0.7594006061553955
+purpose: []
